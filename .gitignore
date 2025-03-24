@@ -3,3 +3,5 @@ __pycache__/
 *.sqlite3
 
 .DS_Store
+DJANGO_SECRET_KEY=your-new-secret-key
+
